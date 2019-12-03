@@ -1,7 +1,4 @@
 import math
-import sys
-
-sys.setrecursionlimit(7000)
 
 def calc(mass):
         module = math.floor(int(mass)//3) -2
