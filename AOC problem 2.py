@@ -14,7 +14,7 @@ def answer(nums):
             index +=4
         elif nums[index] == 99:
             break
-    return nums
+    return nums[0]
 
 #print(answer(x))
 
